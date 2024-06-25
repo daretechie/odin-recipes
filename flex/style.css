@@ -1,0 +1,20 @@
+.flex-container {
+  display: flex;
+  background-color: #c7f0c6;
+  margin: 5px;
+  padding: 5px;
+}
+
+/* .flex-container .header {
+  background: #add9e6;
+  height: 150px;
+  display: flex;
+  flex: 1;
+  padding: 20px;
+}
+
+div.header-one {
+  background-color: #fcd9b9;
+  border: 10px #ec8577;
+  flex: 1;
+} */
